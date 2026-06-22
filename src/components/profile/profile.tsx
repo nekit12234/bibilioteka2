@@ -1,5 +1,0 @@
-const ProfileItem = () => {
-    return(
-        
-    )
-}
